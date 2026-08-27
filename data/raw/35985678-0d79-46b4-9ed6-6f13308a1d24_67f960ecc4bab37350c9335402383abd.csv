@@ -1,0 +1,465 @@
+Arrival_Date,Commodity,Commodity_Code,District,Grade,Market,Max_Price,Min_Price,Modal_Price,State,Variety
+08/05/2026,Onion,23,Solapur,Local,Akluj APMC,1100,200,700,Maharashtra,Other
+03/07/2026,Onion,23,Solapur,Local,Akluj APMC,2500,300,1600,Maharashtra,Other
+05/07/2026,Onion,23,Solapur,Local,Akluj APMC,2500,200,1700,Maharashtra,Other
+02/08/2026,Onion,23,Solapur,Local,Akluj APMC,2600,400,1700,Maharashtra,Other
+07/08/2026,Onion,23,Solapur,Local,Akluj APMC,3100,500,2000,Maharashtra,Red
+19/08/2026,Onion,23,Solapur,Local,Akluj APMC,4100,700,3000,Maharashtra,Red
+10/07/2026,Onion,23,Solapur,Local,Akluj APMC,2600,300,1800,Maharashtra,Other
+26/04/2026,Onion,23,Solapur,Local,Akluj APMC,800,200,600,Maharashtra,Other
+27/05/2026,Onion,23,Solapur,Local,Akluj APMC,1550,200,850,Maharashtra,Red
+07/06/2026,Onion,23,Solapur,Local,Akluj APMC,1650,300,950,Maharashtra,Other
+17/07/2026,Onion,23,Solapur,Local,Akluj APMC,2500,300,1600,Maharashtra,Other
+12/04/2026,Onion,23,Solapur,Local,Akluj APMC,1300,200,700,Maharashtra,Other
+24/04/2026,Onion,23,Solapur,Local,Akluj APMC,1000,200,700,Maharashtra,Other
+03/04/2026,Onion,23,Solapur,Local,Akluj APMC,1200,300,900,Maharashtra,Other
+29/04/2026,Onion,23,Solapur,Local,Akluj APMC,900,200,700,Maharashtra,Other
+24/05/2026,Onion,23,Solapur,Local,Akluj APMC,1200,200,700,Maharashtra,Red
+03/06/2026,Onion,23,Solapur,Local,Akluj APMC,1400,200,900,Maharashtra,Other
+19/07/2026,Onion,23,Solapur,Local,Akluj APMC,2400,300,1700,Maharashtra,Other
+22/07/2026,Onion,23,Solapur,Local,Akluj APMC,2500,200,1500,Maharashtra,Other
+05/08/2026,Onion,23,Solapur,Local,Akluj APMC,2500,500,1900,Maharashtra,Halva
+26/08/2026,Onion,23,Solapur,Local,Akluj APMC,5000,600,3300,Maharashtra,Other
+05/04/2026,Onion,23,Solapur,Local,Akluj APMC,1200,200,800,Maharashtra,Other
+08/04/2026,Onion,23,Solapur,Local,Akluj APMC,1500,200,1000,Maharashtra,Other
+10/05/2026,Onion,23,Solapur,Local,Akluj APMC,900,200,500,Maharashtra,Other
+13/05/2026,Onion,23,Solapur,Local,Akluj APMC,800,200,500,Maharashtra,Other
+17/05/2026,Onion,23,Solapur,Local,Akluj APMC,1500,200,700,Maharashtra,Other
+14/06/2026,Onion,23,Solapur,Local,Akluj APMC,1700,200,900,Maharashtra,Other
+12/06/2026,Onion,23,Solapur,Local,Akluj APMC,1800,200,1050,Maharashtra,Other
+19/06/2026,Onion,23,Solapur,Local,Akluj APMC,2000,200,1200,Maharashtra,Other
+26/07/2026,Onion,23,Solapur,Local,Akluj APMC,2300,200,1600,Maharashtra,Other
+31/07/2026,Onion,23,Solapur,Local,Akluj APMC,2400,300,1800,Maharashtra,Red
+21/08/2026,Onion,23,Solapur,Local,Akluj APMC,4500,1000,3200,Maharashtra,Red
+12/07/2026,Onion,23,Solapur,Local,Akluj APMC,2550,300,1650,Maharashtra,Other
+15/07/2026,Onion,23,Solapur,Local,Akluj APMC,2500,300,1500,Maharashtra,Other
+14/08/2026,Onion,23,Solapur,Local,Akluj APMC,3200,400,2200,Maharashtra,Other
+16/08/2026,Onion,23,Solapur,Local,Akluj APMC,3700,900,2800,Maharashtra,Other
+23/08/2026,Onion,23,Solapur,Local,Akluj APMC,4100,1000,3000,Maharashtra,Other
+03/05/2026,Onion,23,Solapur,Local,Akluj APMC,1300,200,700,Maharashtra,Other
+15/05/2026,Onion,23,Solapur,Local,Akluj APMC,1000,200,800,Maharashtra,Other
+31/05/2026,Onion,23,Solapur,Local,Akluj APMC,1500,200,800,Maharashtra,Other
+19/04/2026,Onion,23,Solapur,Local,Akluj APMC,1150,200,600,Maharashtra,Red
+21/06/2026,Onion,23,Solapur,Local,Akluj APMC,1800,300,1300,Maharashtra,Other
+28/06/2026,Onion,23,Solapur,Local,Akluj APMC,2700,600,1800,Maharashtra,Other
+09/08/2026,Onion,23,Solapur,Local,Akluj APMC,2500,500,1750,Maharashtra,Other
+01/07/2026,Onion,23,Solapur,Local,Akluj APMC,2600,200,1600,Maharashtra,Other
+27/05/2026,Onion,23,Solapur,Local,Barshi APMC,950,100,450,Maharashtra,Other
+26/05/2026,Onion,23,Solapur,Local,Barshi APMC,900,100,550,Maharashtra,Other
+29/04/2026,Onion,23,Solapur,Local,Barshi APMC,500,100,350,Maharashtra,Other
+09/06/2026,Onion,23,Solapur,Local,Barshi APMC,1150,250,650,Maharashtra,Other
+18/05/2026,Onion,23,Solapur,Local,Barshi APMC,850,200,450,Maharashtra,Other
+03/06/2026,Onion,23,Solapur,Local,Barshi APMC,950,150,640,Maharashtra,Other
+04/06/2026,Onion,23,Solapur,Local,Barshi APMC,950,200,600,Maharashtra,Other
+10/06/2026,Onion,23,Solapur,Local,Barshi APMC,980,150,640,Maharashtra,Other
+16/06/2026,Onion,23,Solapur,Local,Barshi APMC,1150,260,850,Maharashtra,Other
+05/05/2026,Onion,23,Solapur,Local,Barshi APMC,1100,300,900,Maharashtra,Other
+20/05/2026,Onion,23,Solapur,Local,Barshi APMC,850,200,600,Maharashtra,Other
+08/06/2026,Onion,23,Solapur,Local,Barshi APMC,1200,200,900,Maharashtra,Other
+15/05/2026,Onion,23,Solapur,Local,Barshi APMC,750,200,450,Maharashtra,Other
+21/05/2026,Onion,23,Solapur,Local,Barshi APMC,850,250,650,Maharashtra,Other
+25/05/2026,Onion,23,Solapur,Local,Barshi APMC,800,50,500,Maharashtra,Other
+23/04/2026,Onion,23,Solapur,Local,Barshi APMC,750,150,500,Maharashtra,Other
+28/05/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,825,150,500,Maharashtra,Red
+01/06/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1200,200,800,Maharashtra,Red
+03/08/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2800,600,2000,Maharashtra,Red
+10/08/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2550,400,1800,Maharashtra,Red
+17/08/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,3600,2000,2900,Maharashtra,Red
+14/05/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,650,100,350,Maharashtra,Red
+05/06/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,451,401,425,Maharashtra,Red
+18/06/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1500,150,1000,Maharashtra,Red
+22/06/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1200,200,950,Maharashtra,Red
+09/07/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2500,1000,2000,Maharashtra,Red
+23/07/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2100,851,1351,Maharashtra,Red
+20/08/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,3500,2700,2800,Maharashtra,Red
+13/04/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,970,160,700,Maharashtra,Red
+16/04/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,860,100,650,Maharashtra,Red
+27/04/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,700,50,400,Maharashtra,Red
+25/05/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,800,150,550,Maharashtra,Red
+11/06/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1211,300,750,Maharashtra,Red
+06/07/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2570,1000,1700,Maharashtra,Red
+20/07/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2460,800,1900,Maharashtra,Red
+27/07/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2680,1101,1700,Maharashtra,Red
+30/07/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2225,1000,1600,Maharashtra,Red
+06/04/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1000,125,750,Maharashtra,Red
+09/04/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1000,150,700,Maharashtra,Red
+08/06/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1026,350,700,Maharashtra,Red
+06/08/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2550,1000,1900,Maharashtra,Red
+07/05/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1000,151,651,Maharashtra,Red
+11/05/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,811,100,550,Maharashtra,Red
+18/05/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,750,400,500,Maharashtra,Red
+02/04/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1000,125,600,Maharashtra,Red
+20/04/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,700,50,450,Maharashtra,Red
+04/06/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1200,100,700,Maharashtra,Red
+15/06/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,840,840,840,Maharashtra,Red
+25/06/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,1100,525,800,Maharashtra,Red
+02/07/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2550,250,1750,Maharashtra,Red
+13/07/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2451,1000,1901,Maharashtra,Red
+16/07/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2360,800,1800,Maharashtra,Red
+13/08/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,2525,1225,1900,Maharashtra,Red
+24/08/2026,Onion,23,Solapur,Local,Kurdwadi(Modnimb) APMC,3851,1000,3250,Maharashtra,Red
+09/05/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1000,400,700,Maharashtra,Other
+06/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1200,500,800,Maharashtra,Other
+23/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1600,500,1200,Maharashtra,Other
+11/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1200,500,800,Maharashtra,Other
+02/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2400,600,2000,Maharashtra,Other
+27/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2100,300,1600,Maharashtra,Other
+30/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,300,1500,Maharashtra,Other
+07/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,600,1400,Maharashtra,Other
+17/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2600,500,1800,Maharashtra,Other
+13/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2600,500,2100,Maharashtra,Other
+02/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1100,400,800,Maharashtra,Other
+20/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",800,300,500,Maharashtra,Other
+13/05/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1000,200,800,Maharashtra,Other
+29/05/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1400,500,1000,Maharashtra,Other
+13/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1500,500,1200,Maharashtra,Other
+22/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1800,500,1300,Maharashtra,Other
+27/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2100,500,1600,Maharashtra,Other
+29/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,500,1600,Maharashtra,Other
+14/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2600,500,2000,Maharashtra,Other
+18/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",3300,700,2600,Maharashtra,Other
+04/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,600,1600,Maharashtra,Other
+03/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1800,400,1400,Maharashtra,Other
+10/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2200,400,1800,Maharashtra,Other
+11/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2300,500,1800,Maharashtra,Other
+16/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2300,400,1900,Maharashtra,Other
+23/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,500,1500,Maharashtra,Other
+01/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,400,1500,Maharashtra,Other
+04/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2500,500,1900,Maharashtra,Other
+08/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2400,400,1800,Maharashtra,Other
+06/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2400,500,1900,Maharashtra,Other
+07/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1300,500,900,Maharashtra,Other
+08/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1200,400,900,Maharashtra,Other
+10/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1200,500,800,Maharashtra,Other
+23/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",800,200,600,Maharashtra,Other
+24/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",900,100,700,Maharashtra,Other
+04/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1000,400,700,Maharashtra,Other
+08/05/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1000,300,700,Maharashtra,Other
+21/05/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1200,400,900,Maharashtra,Other
+19/05/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1100,400,800,Maharashtra,Other
+10/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1600,500,1100,Maharashtra,Other
+25/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1600,500,1200,Maharashtra,Other
+30/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1900,500,1500,Maharashtra,Other
+06/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1500,500,1100,Maharashtra,Other
+08/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1400,500,1000,Maharashtra,Other
+06/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2600,600,2200,Maharashtra,Other
+07/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2500,500,2100,Maharashtra,Other
+08/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2800,600,2200,Maharashtra,Other
+20/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2100,400,1600,Maharashtra,Other
+22/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,500,1500,Maharashtra,Other
+24/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2300,500,1700,Maharashtra,Other
+28/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2300,500,1800,Maharashtra,Other
+31/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,500,1600,Maharashtra,Other
+03/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2400,300,1800,Maharashtra,Other
+05/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2400,400,1800,Maharashtra,Other
+21/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",3700,800,3100,Maharashtra,Other
+24/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",3400,800,2800,Maharashtra,Other
+10/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,400,1600,Maharashtra,Other
+11/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2400,500,1900,Maharashtra,Other
+19/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",3100,600,2600,Maharashtra,Other
+20/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",3100,600,2600,Maharashtra,Other
+15/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1000,300,700,Maharashtra,Other
+23/05/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1100,400,800,Maharashtra,Other
+01/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1600,500,1100,Maharashtra,Other
+05/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1500,500,1100,Maharashtra,Other
+15/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1200,500,800,Maharashtra,Other
+01/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,400,1600,Maharashtra,Other
+09/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2600,600,2000,Maharashtra,Other
+14/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2200,400,1700,Maharashtra,Other
+26/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",4100,800,3500,Maharashtra,Other
+17/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2200,500,1600,Maharashtra,Other
+12/05/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",900,200,700,Maharashtra,Other
+25/05/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1300,500,800,Maharashtra,Other
+28/05/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1200,500,900,Maharashtra,Other
+25/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1200,400,800,Maharashtra,Other
+27/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1000,300,700,Maharashtra,Other
+03/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1000,400,800,Maharashtra,Other
+09/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1200,400,800,Maharashtra,Other
+13/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1100,300,700,Maharashtra,Other
+18/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",800,100,500,Maharashtra,Other
+16/04/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1100,400,800,Maharashtra,Other
+03/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1800,500,1200,Maharashtra,Other
+16/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1600,500,1200,Maharashtra,Other
+18/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1600,500,1100,Maharashtra,Other
+24/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2000,600,1500,Maharashtra,Other
+26/06/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",1900,500,1600,Maharashtra,Other
+22/08/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",3300,700,2800,Maharashtra,Other
+15/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2400,500,1900,Maharashtra,Other
+13/07/2026,Onion,23,Solapur,Local,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",2300,500,1700,Maharashtra,Other
+06/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1000,200,900,Maharashtra,Local
+31/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1600,1200,1250,Maharashtra,Local
+05/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1000,200,900,Maharashtra,Local
+20/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1100,100,700,Maharashtra,Local
+10/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1900,300,1400,Maharashtra,Local
+17/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1630,350,1350,Maharashtra,Local
+22/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1900,300,1410,Maharashtra,Local
+04/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2500,600,2000,Maharashtra,Local
+22/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2720,500,2100,Maharashtra,Local
+10/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,3000,1100,2410,Maharashtra,Local
+13/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2700,1200,2520,Maharashtra,Local
+14/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,3700,500,2700,Maharashtra,Local
+19/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,5100,1210,3700,Maharashtra,Local
+03/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1000,400,900,Maharashtra,Local
+08/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1400,400,900,Maharashtra,Local
+13/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1200,200,1000,Maharashtra,Local
+15/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1100,300,800,Maharashtra,Local
+17/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1000,200,800,Maharashtra,Local
+24/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1000,100,900,Maharashtra,Local
+01/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,900,400,800,Maharashtra,Local
+04/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1130,240,1000,Maharashtra,Local
+11/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1200,150,850,Maharashtra,Local
+14/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1100,200,550,Maharashtra,Local
+17/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,600,500,600,Maharashtra,Local
+22/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1200,250,800,Maharashtra,Local
+25/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1200,250,920,Maharashtra,Local
+29/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1410,200,1000,Maharashtra,Local
+30/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1450,750,1220,Maharashtra,Local
+03/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1640,400,1400,Maharashtra,Local
+05/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1750,700,1300,Maharashtra,Local
+12/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1330,200,1130,Maharashtra,Local
+15/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2000,200,1300,Maharashtra,Local
+24/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2210,600,1930,Maharashtra,Local
+19/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1580,560,1360,Maharashtra,Local
+06/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2500,400,2000,Maharashtra,Local
+13/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2500,420,2000,Maharashtra,Local
+16/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2230,400,2150,Maharashtra,Local
+17/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2500,500,2100,Maharashtra,Local
+18/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2200,1300,2200,Maharashtra,Local
+31/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2700,500,2400,Maharashtra,Local
+03/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2600,400,2300,Maharashtra,Local
+05/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2800,1000,2500,Maharashtra,Local
+07/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,3000,1200,2500,Maharashtra,Local
+08/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,3000,1170,2500,Maharashtra,Local
+17/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,4500,1500,3100,Maharashtra,Local
+24/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,5000,1500,3750,Maharashtra,Local
+11/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1200,300,900,Maharashtra,Local
+10/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1150,900,1100,Maharashtra,Local
+25/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,700,300,600,Maharashtra,Local
+26/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,700,700,700,Maharashtra,Local
+27/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,900,300,800,Maharashtra,Local
+30/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,400,400,400,Maharashtra,Local
+02/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1200,250,810,Maharashtra,Local
+08/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1100,150,700,Maharashtra,Local
+16/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1210,200,900,Maharashtra,Local
+21/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1200,280,900,Maharashtra,Local
+01/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1650,400,1400,Maharashtra,Local
+06/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1700,800,1500,Maharashtra,Local
+29/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2800,1000,2400,Maharashtra,Local
+01/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,3000,500,2460,Maharashtra,Local
+03/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2270,600,2000,Maharashtra,Local
+11/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2500,400,1700,Maharashtra,Local
+27/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,3100,340,2400,Maharashtra,Local
+01/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2550,1500,2400,Maharashtra,Local
+06/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2400,2400,2400,Maharashtra,Local
+09/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2360,1400,2000,Maharashtra,Local
+12/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,4000,1050,2600,Maharashtra,Local
+01/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1100,400,900,Maharashtra,Local
+16/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1000,500,900,Maharashtra,Local
+19/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1000,400,1000,Maharashtra,Local
+23/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,950,200,700,Maharashtra,Local
+09/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1100,340,950,Maharashtra,Local
+03/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1200,250,1000,Maharashtra,Local
+07/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,800,200,700,Maharashtra,Local
+10/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,8500,400,700,Maharashtra,Local
+24/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1300,1120,1120,Maharashtra,Local
+18/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1250,200,900,Maharashtra,Local
+23/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1200,300,900,Maharashtra,Local
+27/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1350,250,1000,Maharashtra,Local
+08/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1800,300,1400,Maharashtra,Local
+11/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1500,640,1200,Maharashtra,Local
+13/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1500,600,1300,Maharashtra,Local
+14/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1500,800,1400,Maharashtra,Local
+28/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2600,1910,1910,Maharashtra,Local
+02/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2800,400,2300,Maharashtra,Local
+10/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2550,500,2300,Maharashtra,Local
+23/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2520,1500,2520,Maharashtra,Local
+29/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,3000,1020,2350,Maharashtra,Local
+30/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2600,1650,2400,Maharashtra,Local
+26/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,5100,1000,4100,Maharashtra,Local
+13/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1240,200,1100,Maharashtra,Local
+15/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,900,300,800,Maharashtra,Local
+20/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1320,200,800,Maharashtra,Local
+28/05/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1050,700,1000,Maharashtra,Local
+04/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1000,300,900,Maharashtra,Local
+02/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1000,700,900,Maharashtra,Local
+06/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1050,300,900,Maharashtra,Local
+09/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,600,300,450,Maharashtra,Local
+18/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1100,600,700,Maharashtra,Local
+22/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,910,300,900,Maharashtra,Local
+29/04/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,900,420,800,Maharashtra,Local
+07/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1850,700,1550,Maharashtra,Local
+20/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,1550,400,1400,Maharashtra,Local
+25/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2000,721,1900,Maharashtra,Local
+26/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2600,900,2400,Maharashtra,Local
+27/06/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,3000,1100,2400,Maharashtra,Local
+08/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2600,800,2300,Maharashtra,Local
+09/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2000,1800,2000,Maharashtra,Local
+15/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2600,500,2100,Maharashtra,Local
+20/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2480,550,2200,Maharashtra,Local
+25/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2600,2500,2500,Maharashtra,Local
+24/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2900,700,2350,Maharashtra,Local
+26/07/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,2700,1420,2500,Maharashtra,Local
+16/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,4100,1500,2420,Maharashtra,Local
+15/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,3500,1700,3100,Maharashtra,Local
+21/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,5200,1700,3900,Maharashtra,Local
+22/08/2026,Onion,23,Solapur,Local,Mangal Wedha APMC,5000,1800,4000,Maharashtra,Local
+09/04/2026,Onion,23,Solapur,Local,Pandharpur APMC,1320,100,700,Maharashtra,Red
+25/08/2026,Onion,23,Solapur,Local,Pandharpur APMC,4500,600,2800,Maharashtra,Red
+13/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1700,100,700,Maharashtra,Red
+08/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1450,100,600,Maharashtra,Red
+11/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1600,100,600,Maharashtra,Red
+14/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1700,100,700,Maharashtra,Red
+19/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1600,100,650,Maharashtra,Red
+01/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3000,100,1100,Maharashtra,Red
+03/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3000,100,1100,Maharashtra,Red
+05/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2600,100,1000,Maharashtra,Red
+04/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,100,1600,Maharashtra,Red
+10/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,100,1850,Maharashtra,Red
+11/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,100,1600,Maharashtra,Red
+24/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3300,200,1700,Maharashtra,Red
+30/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3300,200,1800,Maharashtra,Red
+04/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3500,200,2000,Maharashtra,Red
+06/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3500,200,1800,Maharashtra,Red
+08/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3600,200,1950,Maharashtra,Red
+11/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3500,200,1900,Maharashtra,Red
+13/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,4000,500,2200,Maharashtra,Red
+14/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,4100,500,2300,Maharashtra,Red
+17/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,4200,500,2400,Maharashtra,Red
+20/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,5100,500,2800,Maharashtra,Red
+24/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,5500,500,2900,Maharashtra,Red
+07/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1600,100,650,Maharashtra,Red
+02/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1600,100,750,Maharashtra,Red
+06/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1600,100,700,Maharashtra,Red
+16/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1700,100,700,Maharashtra,Red
+18/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1700,100,700,Maharashtra,Red
+20/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1600,100,650,Maharashtra,Red
+27/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3000,100,1200,Maharashtra,Red
+25/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2000,100,900,Maharashtra,Red
+26/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2200,100,1000,Maharashtra,Red
+09/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2900,100,1150,Maharashtra,Red
+18/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3000,100,1400,Maharashtra,Red
+24/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3000,100,1600,Maharashtra,Red
+01/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3500,100,1700,Maharashtra,Red
+07/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3600,100,2200,Maharashtra,Red
+17/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,200,1700,Maharashtra,Red
+25/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,200,1700,Maharashtra,Red
+29/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3400,200,1800,Maharashtra,Red
+27/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,200,1750,Maharashtra,Red
+10/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3600,200,1900,Maharashtra,Red
+18/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,4400,500,2500,Maharashtra,Red
+19/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,5500,500,2900,Maharashtra,Red
+04/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1600,100,800,Maharashtra,Red
+22/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1700,100,700,Maharashtra,Red
+06/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2800,100,1000,Maharashtra,Red
+08/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2700,100,1050,Maharashtra,Red
+11/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2700,100,1100,Maharashtra,Red
+22/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2800,100,1400,Maharashtra,Red
+20/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3000,100,1500,Maharashtra,Red
+25/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,100,1600,Maharashtra,Red
+30/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3400,100,1700,Maharashtra,Red
+02/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3300,100,1650,Maharashtra,Red
+09/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3300,100,1850,Maharashtra,Red
+14/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,200,1800,Maharashtra,Red
+18/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,200,1800,Maharashtra,Red
+20/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3500,200,1850,Maharashtra,Red
+28/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3300,200,1700,Maharashtra,Red
+21/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,5000,500,2600,Maharashtra,Red
+12/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1600,100,600,Maharashtra,Red
+15/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1700,100,650,Maharashtra,Red
+21/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1800,100,700,Maharashtra,Red
+04/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2800,100,1000,Maharashtra,Red
+10/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2800,100,1200,Maharashtra,Red
+12/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2600,100,1100,Maharashtra,Red
+15/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2600,100,1200,Maharashtra,Red
+19/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3000,100,1500,Maharashtra,Red
+23/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2800,100,1400,Maharashtra,Red
+15/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,200,1700,Maharashtra,Red
+21/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3300,200,1800,Maharashtra,Red
+31/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3300,200,1800,Maharashtra,Red
+03/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3500,200,1900,Maharashtra,Red
+05/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3600,200,2000,Maharashtra,Red
+07/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3400,200,1800,Maharashtra,Red
+12/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3600,200,1900,Maharashtra,Red
+05/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1600,100,800,Maharashtra,Red
+09/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1400,100,600,Maharashtra,Red
+23/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,1800,100,800,Maharashtra,Red
+30/05/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2900,100,1100,Maharashtra,Red
+02/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3000,100,1000,Maharashtra,Red
+13/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2600,100,1050,Maharashtra,Red
+16/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2800,100,1250,Maharashtra,Red
+17/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,2800,100,1300,Maharashtra,Red
+27/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,100,1600,Maharashtra,Red
+29/06/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3500,100,1700,Maharashtra,Red
+03/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,100,1500,Maharashtra,Red
+06/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3600,100,2100,Maharashtra,Red
+08/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3500,100,2100,Maharashtra,Red
+13/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3000,100,1650,Maharashtra,Red
+16/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3200,200,1700,Maharashtra,Red
+22/07/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3500,200,1800,Maharashtra,Red
+01/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,3500,200,1900,Maharashtra,Red
+22/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,4600,500,2500,Maharashtra,Red
+25/08/2026,Onion,23,Solapur,Local,SHRI.SIDDHESHWAR  APMC,5500,500,3000,Maharashtra,Red
+04/05/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,800,Maharashtra,Red
+06/05/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,700,Maharashtra,Red
+12/05/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,600,Maharashtra,Red
+08/05/2026,Onion,23,Solapur,Local,Solapur APMC,1450,100,600,Maharashtra,Red
+16/05/2026,Onion,23,Solapur,Local,Solapur APMC,1700,100,700,Maharashtra,Red
+18/05/2026,Onion,23,Solapur,Local,Solapur APMC,1700,100,700,Maharashtra,Red
+20/05/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,650,Maharashtra,Red
+23/05/2026,Onion,23,Solapur,Local,Solapur APMC,1800,100,800,Maharashtra,Red
+30/05/2026,Onion,23,Solapur,Local,Solapur APMC,2900,100,1100,Maharashtra,Red
+02/06/2026,Onion,23,Solapur,Local,Solapur APMC,3000,100,1000,Maharashtra,Red
+09/06/2026,Onion,23,Solapur,Local,Solapur APMC,2900,100,1150,Maharashtra,Red
+10/06/2026,Onion,23,Solapur,Local,Solapur APMC,2800,100,1200,Maharashtra,Red
+18/06/2026,Onion,23,Solapur,Local,Solapur APMC,3000,100,1400,Maharashtra,Red
+17/06/2026,Onion,23,Solapur,Local,Solapur APMC,2800,100,1300,Maharashtra,Red
+02/04/2026,Onion,23,Solapur,Local,Solapur APMC,1300,100,600,Maharashtra,Red
+09/04/2026,Onion,23,Solapur,Local,Solapur APMC,1300,100,600,Maharashtra,Red
+10/04/2026,Onion,23,Solapur,Local,Solapur APMC,1500,100,650,Maharashtra,Red
+17/04/2026,Onion,23,Solapur,Local,Solapur APMC,1350,100,500,Maharashtra,Red
+21/04/2026,Onion,23,Solapur,Local,Solapur APMC,1400,100,500,Maharashtra,Red
+01/04/2026,Onion,23,Solapur,Local,Solapur APMC,1400,100,600,Maharashtra,Red
+04/04/2026,Onion,23,Solapur,Local,Solapur APMC,1500,100,700,Maharashtra,Red
+15/04/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,600,Maharashtra,Red
+25/04/2026,Onion,23,Solapur,Local,Solapur APMC,1300,100,600,Maharashtra,Red
+07/04/2026,Onion,23,Solapur,Local,Solapur APMC,1500,100,700,Maharashtra,Red
+08/04/2026,Onion,23,Solapur,Local,Solapur APMC,1350,100,600,Maharashtra,Red
+13/05/2026,Onion,23,Solapur,Local,Solapur APMC,1700,100,700,Maharashtra,Red
+14/05/2026,Onion,23,Solapur,Local,Solapur APMC,1700,100,700,Maharashtra,Red
+26/05/2026,Onion,23,Solapur,Local,Solapur APMC,2200,100,1000,Maharashtra,Red
+03/06/2026,Onion,23,Solapur,Local,Solapur APMC,3000,100,1100,Maharashtra,Red
+15/06/2026,Onion,23,Solapur,Local,Solapur APMC,2600,100,1200,Maharashtra,Red
+06/04/2026,Onion,23,Solapur,Local,Solapur APMC,1500,100,700,Maharashtra,Red
+16/04/2026,Onion,23,Solapur,Local,Solapur APMC,1300,100,600,Maharashtra,Red
+13/04/2026,Onion,23,Solapur,Local,Solapur APMC,1520,100,600,Maharashtra,Red
+28/04/2026,Onion,23,Solapur,Local,Solapur APMC,1400,100,600,Maharashtra,Red
+09/05/2026,Onion,23,Solapur,Local,Solapur APMC,1400,100,600,Maharashtra,Red
+15/05/2026,Onion,23,Solapur,Local,Solapur APMC,1700,100,650,Maharashtra,Red
+19/05/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,650,Maharashtra,Red
+21/05/2026,Onion,23,Solapur,Local,Solapur APMC,1800,100,700,Maharashtra,Red
+22/05/2026,Onion,23,Solapur,Local,Solapur APMC,1700,100,700,Maharashtra,Red
+27/05/2026,Onion,23,Solapur,Local,Solapur APMC,3000,100,1200,Maharashtra,Red
+25/05/2026,Onion,23,Solapur,Local,Solapur APMC,2000,100,900,Maharashtra,Red
+01/06/2026,Onion,23,Solapur,Local,Solapur APMC,3000,100,1100,Maharashtra,Red
+04/06/2026,Onion,23,Solapur,Local,Solapur APMC,2800,100,1000,Maharashtra,Red
+06/06/2026,Onion,23,Solapur,Local,Solapur APMC,2800,100,1000,Maharashtra,Red
+03/04/2026,Onion,23,Solapur,Local,Solapur APMC,1200,100,600,Maharashtra,Red
+11/04/2026,Onion,23,Solapur,Local,Solapur APMC,1425,100,650,Maharashtra,Red
+20/04/2026,Onion,23,Solapur,Local,Solapur APMC,1210,100,500,Maharashtra,Red
+22/04/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,600,Maharashtra,Red
+24/04/2026,Onion,23,Solapur,Local,Solapur APMC,1500,100,600,Maharashtra,Red
+29/04/2026,Onion,23,Solapur,Local,Solapur APMC,1500,100,600,Maharashtra,Red
+05/06/2026,Onion,23,Solapur,Local,Solapur APMC,2600,100,1000,Maharashtra,Red
+07/05/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,650,Maharashtra,Red
+02/05/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,750,Maharashtra,Red
+05/05/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,800,Maharashtra,Red
+11/05/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,600,Maharashtra,Red
+08/06/2026,Onion,23,Solapur,Local,Solapur APMC,2700,100,1050,Maharashtra,Red
+11/06/2026,Onion,23,Solapur,Local,Solapur APMC,2700,100,1100,Maharashtra,Red
+12/06/2026,Onion,23,Solapur,Local,Solapur APMC,2600,100,1100,Maharashtra,Red
+13/06/2026,Onion,23,Solapur,Local,Solapur APMC,2600,100,1050,Maharashtra,Red
+16/06/2026,Onion,23,Solapur,Local,Solapur APMC,2800,100,1250,Maharashtra,Red
+18/04/2026,Onion,23,Solapur,Local,Solapur APMC,1160,100,500,Maharashtra,Red
+23/04/2026,Onion,23,Solapur,Local,Solapur APMC,1550,100,600,Maharashtra,Red
+27/04/2026,Onion,23,Solapur,Local,Solapur APMC,1600,100,600,Maharashtra,Red
+30/04/2026,Onion,23,Solapur,Local,Solapur APMC,1700,100,700,Maharashtra,Red
