@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>MandiSense - Onion Price Discovery</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<style>
+  body { font-family: sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; color: #222; }
+  h1 { font-size: 22px; }
+  p.subtitle { color: #666; margin-top: -8px; }
+  .card { border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-top: 20px; }
+  label { font-size: 14px; color: #555; display: block; margin-bottom: 4px; }
+  select, input, button { padding: 8px; font-size: 14px; border-radius: 6px; border: 1px solid #ccc; }
+  button { background: #222; color: white; cursor: pointer; border: none; margin-top: 10px; }
+  .result { font-size: 20px; margin-top: 16px; }
+  .error { color: #b00020; margin-top: 10px; }
+</style>
+</head>
+<body>
+
+<h1>MandiSense</h1>
+<p class="subtitle">Onion price discovery & forecasting for Maharashtra mandis</p>
+
+<div class="card">
+  <label for="market">Market</label>
+  <select id="market">
+    <option>Chandvad</option>
+    <option>Devala</option>
+    <option>Lasalgaon</option>
+    <option>Manmad</option>
+    <option>Nasik</option>
+    <option>Pimpalgaon</option>
+    <option>Pune</option>
+    <option>Yeola</option>
+  </select>
+
+  <label for="date" style="margin-top:12px;">Date</label>
+  <input type="date" id="date" value="2024-06-15">
+
+  <br>
+  <button onclick="getPrediction()">Predict price</button>
+
+  <div id="output"></div>
+</div>
+
+<div class="card">
+  <canvas id="priceChart" height="120"></canvas>
+</div>
+
+<script>
+async function getPrediction() {
+  const data = await res.json();
+  const confidenceColor = data.confidence === "high" ? "#1a7f37" : data.confidence === "medium" ? "#b08900" : "#b00020";
+  output.innerHTML = `
+    <p class="result">Predicted: ₹${data.predicted_price} <span style="color:#666; font-size:14px;">(last known: ₹${data.actual_price || 'N/A'} on ${data.last_known_date})</span></p>
+    <p style="color:${confidenceColor}; font-size:14px; font-weight:bold;">Confidence: ${data.confidence.toUpperCase()} (${data.days_since_last_data} days since last data point)</p>
+  `;
+
+  try {
+    const res = await fetch(`http://127.0.0.1:8000/predict_future?market=${market}&target_date=${date}`);
+    if (!res.ok) {
+      const err = await res.json();
+      output.innerHTML = `<p class="error">${err.detail}</p>`;
+      return;
+    }
+    const data = await res.json();
+    output.innerHTML = `
+      <p class="result">Predicted: ₹${data.predicted_price} <span style="color:#666; font-size:14px;">(actual: ₹${data.actual_price})</span></p>
+    `;
+    loadHistory(market);
+  } catch (e) {
+    output.innerHTML = `<p class="error">Could not reach the API. Is your FastAPI server running?</p>`;
+  }
+}
+
+let chart;
+async function loadHistory(market) {
+  const res = await fetch(`http://127.0.0.1:8000/history?market=${market}`);
+  const data = await res.json();
+
+  const ctx = document.getElementById('priceChart');
+  if (chart) chart.destroy();
+  chart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: data.dates,
+      datasets: [{ label: `${market} price history`, data: data.prices, borderColor: '#222', pointRadius: 0 }]
+    },
+    options: { plugins: { legend: { display: false } } }
+  });
+}
+</script>
+
+</body>
+</html>
