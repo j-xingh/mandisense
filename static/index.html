@@ -49,12 +49,10 @@
 
 <script>
 async function getPrediction() {
-  const data = await res.json();
-  const confidenceColor = data.confidence === "high" ? "#1a7f37" : data.confidence === "medium" ? "#b08900" : "#b00020";
-  output.innerHTML = `
-    <p class="result">Predicted: ₹${data.predicted_price} <span style="color:#666; font-size:14px;">(last known: ₹${data.actual_price || 'N/A'} on ${data.last_known_date})</span></p>
-    <p style="color:${confidenceColor}; font-size:14px; font-weight:bold;">Confidence: ${data.confidence.toUpperCase()} (${data.days_since_last_data} days since last data point)</p>
-  `;
+  const market = document.getElementById('market').value;
+  const date = document.getElementById('date').value;
+  const output = document.getElementById('output');
+  output.innerHTML = "Loading...";
 
   try {
     const res = await fetch(`http://127.0.0.1:8000/predict_future?market=${market}&target_date=${date}`);
@@ -64,9 +62,15 @@ async function getPrediction() {
       return;
     }
     const data = await res.json();
-    output.innerHTML = `
-      <p class="result">Predicted: ₹${data.predicted_price} <span style="color:#666; font-size:14px;">(actual: ₹${data.actual_price})</span></p>
-    `;
+    if (data.mode === "historical_validation") {
+      output.innerHTML = `<p class="result">Predicted: ₹${data.predicted_price} <span style="color:#666; font-size:14px;">(actual: ₹${data.actual_price})</span></p>`;
+    } else {
+      const confidenceColor = data.confidence === "high" ? "#1a7f37" : data.confidence === "medium" ? "#b08900" : "#b00020";
+      output.innerHTML = `
+        <p class="result">Predicted: ₹${data.predicted_price}</p>
+        <p style="color:${confidenceColor}; font-size:14px; font-weight:bold;">Confidence: ${data.confidence.toUpperCase()} (${data.days_since_last_data} days since last data point)</p>
+      `;
+    }
     loadHistory(market);
   } catch (e) {
     output.innerHTML = `<p class="error">Could not reach the API. Is your FastAPI server running?</p>`;

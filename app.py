@@ -28,11 +28,28 @@ def predict_future(market: str, target_date: str):
     if market_history.empty:
         raise HTTPException(status_code=404, detail="No history for this market")
     
-    last_known = market_history.iloc[-1]
+    last_known_date = market_history["Arrival_Date"].max()
+
+    if target <= last_known_date:
+        # Historical date — look up the real row instead of forecasting
+        row = market_history[market_history["Arrival_Date"] == target]
+        if row.empty:
+            raise HTTPException(status_code=404, detail="No data found for this exact date")
+        feature_cols = ['Price_Lag_1','Price_Lag_7','Price_Lag_30','Rolling_Mean_7','Rolling_Mean_30','Month','Cross_Market_Avg']
+        prediction = model.predict(row[feature_cols])[0]
+        return {
+            "market": market, "target_date": target_date,
+            "predicted_price": round(float(prediction), 2),
+            "actual_price": float(row["Modal_Price"].values[0]),
+            "mode": "historical_validation"
+        }
+
+    # Future date — use most recent data as forecast base
     recent_7 = market_history.tail(7)["Modal_Price"]
     recent_30 = market_history.tail(30)["Modal_Price"]
-    same_day_regional = history[history["Arrival_Date"] == last_known["Arrival_Date"]]["Modal_Price"].mean()
-    
+    last_known = market_history.iloc[-1]
+    same_day_regional = history[history["Arrival_Date"] == last_known_date]["Modal_Price"].mean()
+
     features = pd.DataFrame([{
         "Price_Lag_1": last_known["Modal_Price"],
         "Price_Lag_7": recent_7.iloc[0] if len(recent_7) >= 7 else recent_7.mean(),
@@ -42,25 +59,17 @@ def predict_future(market: str, target_date: str):
         "Month": target.month,
         "Cross_Market_Avg": same_day_regional
     }])
-    
     prediction = model.predict(features)[0]
+    gap_days = (target - last_known_date).days
+    confidence = "high" if gap_days <= 14 else "medium" if gap_days <= 60 else "low"
 
-    gap_days = (target - last_known["Arrival_Date"]).days
-    if gap_days <= 14:
-        confidence = "high"
-    elif gap_days <= 60:
-        confidence = "medium"
-    else:
-        confidence = "low"
-    
     return {
-        "market": market,
-        "target_date": target_date,
-        "last_known_date": last_known["Arrival_Date"].strftime("%Y-%m-%d"),
-        "days_since_last_data": gap_days,
-        "confidence": confidence,
+        "market": market, "target_date": target_date,
+        "last_known_date": last_known_date.strftime("%Y-%m-%d"),
+        "days_since_last_data": gap_days, "confidence": confidence,
         "predicted_price": round(float(prediction), 2),
-        "note": "Forecast based on most recent available data. Confidence decreases as the gap between target date and last known data grows."
+        "mode": "future_forecast",
+        "note": "Projected from most recent available data; all future dates currently share the same base inputs except seasonality (month) — a known limitation of this v1 approach."
     }
 
 @app.get("/history")
